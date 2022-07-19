@@ -1,0 +1,13 @@
+.NewUser{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#button{
+    margin-top: 20px;
+}
+
+#button:hover{
+    background-color: red;
+}

@@ -1,0 +1,14 @@
+.newPostsPage{
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+
+.newPostsSubmit{
+  display: flex;
+  justify-content: flex-end;
+}
+
+#button :hover{
+  background-color: red;
+}

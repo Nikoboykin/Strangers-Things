@@ -1,0 +1,22 @@
+.posts{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.post{
+    border: 1px solid red;
+    background-color: burlywood;
+    margin-top: 50px;
+    padding: 5px;
+    box-shadow: 5px 5px red;
+}
+
+#button :hover{
+    background-color: red;
+}
+
+.button{
+    display: flex;
+    justify-content: flex-end;
+}

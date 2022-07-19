@@ -1,0 +1,46 @@
+.Posts{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px red;
+}
+
+
+.PostUp{
+    background-color: blue;
+    color:white;
+}
+
+
+.PostDown{
+    background-color: red;
+    color:white;
+}
+
+
+.userPostsButtons{
+    display: flex;
+    justify-content: flex-end;
+}
+
+#button :hover{
+    background-color: red;
+}
+
+.profileWelcome{
+    text-align: end ;
+    color: red;
+    text-decoration: underline;
+}
+
+
+.Messages{
+    display: flex;
+    justify-content: center;
+    background-color: burlywood;
+    margin-top: 10px;
+    padding: 10px;
+    box-shadow: 10px 10px red;
+}

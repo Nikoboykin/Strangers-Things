@@ -1,0 +1,17 @@
+.message{
+    margin-top: 50px;
+}
+
+#button{
+    margin-left: 50px;
+}
+
+#button :hover{
+    background-color: red;
+}
+
+
+
+textarea{
+    resize: none; 
+}
